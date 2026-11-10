@@ -13,3 +13,10 @@ Clone the repository:
 
 ```bash
 git clone git@github.com:abdulahad678123/dev-setup-readme.git
+
+## Project Status
+
+- Python environment configured
+- Dependencies managed with uv
+- Ruff configured for formatting and linting
+- Git workflow configured
